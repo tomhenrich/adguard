@@ -3,3 +3,5 @@ cdn.amcnetworks.com
 *.amcnets.com
 markers.api.hbo.com
 *.paramountplus.com
+disneyplus.com
+disney.api.edge.bamgrid.com
