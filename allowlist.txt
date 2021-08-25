@@ -1,15 +1,15 @@
-@@||*.amcn.com
-@@||cdn.amcnetworks.com
-@@||*.amcnets.com
+@@||amcn.com^
+@@||amcnetworks.com^
+@@||amcnets.com^
 
-@@||markers.api.hbo.com
+@@||hbo.com^
 
-@@||*.paramountplus.com
-@@||s0.2mdn.net
-@@||cbsinteractive.hb.omtrdc.net
-@@||cbsi.live.ott.irdeto.com
-@@||saa.cbsi.com
+@@||paramountplus.com^
+s0.2mdn.net
+cbsinteractive.hb.omtrdc.net
+cbsi.live.ott.irdeto.com
+saa.cbsi.com
 
-@@||disneyplus.com
-@@||disney.api.edge.bamgrid.com
+disneyplus.com
+disney.api.edge.bamgrid.com
 
