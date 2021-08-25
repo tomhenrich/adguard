@@ -7,6 +7,8 @@ markers.api.hbo.com
 *.paramountplus.com
 s0.2mdn.net
 cbsinteractive.hb.omtrdc.net
+cbsi.live.ott.irdeto.com
+saa.cbsi.com
 
 disneyplus.com
 disney.api.edge.bamgrid.com
