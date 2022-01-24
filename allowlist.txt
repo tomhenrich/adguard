@@ -12,4 +12,5 @@ saa.cbsi.com
 
 disneyplus.com
 disney.api.edge.bamgrid.com
-
+smetrics.showtime.com
+smetrics.showtimeanytime.com
