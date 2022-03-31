@@ -1,6 +1,0 @@
-advisor.ngxcld.com
-readycloud.netgear.com
-readyshare.netgear.com
-presence.ngxcld.com
-registration.ngxcld.com
-updates1.netgear.com
