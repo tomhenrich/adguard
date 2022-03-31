@@ -1,8 +1,37 @@
-advisor.ngxcld.com
-readycloud.netgear.com
-readyshare.netgear.com
-presence.ngxcld.com
-registration.ngxcld.com
-updates1.netgear.com
-*.appsflyer.com
-*.crashlytics.com
+||advisor.ngxcld.com^
+||readycloud.netgear.com^
+||readyshare.netgear.com^
+||presence.ngxcld.com^
+||registration.ngxcld.com^
+||updates1.netgear.com^
+||appsflyer.com^
+||crashlytics.com^
+
+! Tracking
+
+! This domain does not exist and is used for health checks
+||abcounter.de^
+! https://github.com/AdguardTeam/AdguardDNS/issues/52
+||mobileanalytics.*.amazonaws.com^
+||analyzer52.fc2.com^
+||clientlog.portal.office.com^
+||cnt.nuvid.com^
+||cnt.vivatube.com^
+||collect.sas.com^
+||collect2.sas.com^
+||log.optimizely.com^
+||log.prezi.com^
+||logdev.openload.co^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||pixel.redditmedia.com^
+||sa.bbc.co.uk^
+||sa.bbc.com^
+||sp.usatoday.com^
+||stats.paypal.com^
+||stats.wwitv.com^
+||t.9gag.com^
+||t.appsflyer.com^
+||t.delfi.
+||track.zalando.
+||tracking.olx.
