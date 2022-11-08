@@ -6,6 +6,7 @@
 ||updates1.netgear.com^
 ||appsflyer.com^
 ||crashlytics.com^
+||*.domain.glass^
 
 ! Tracking
 
