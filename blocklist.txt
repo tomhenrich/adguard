@@ -7,6 +7,8 @@
 ||appsflyer.com^
 ||crashlytics.com^
 ||*.domain.glass^
+||*.smoot.apple.com^
+||smoot.g.aaplimg.com*
 
 ! Tracking
 
