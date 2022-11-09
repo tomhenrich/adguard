@@ -8,7 +8,8 @@
 ||crashlytics.com^
 ||*.domain.glass^
 ||*.smoot.apple.com^
-||smoot.g.aaplimg.com*
+||smoot.g.aaplimg.com^
+||*.speedtest.centurylink.net
 
 ! Tracking
 
